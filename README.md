@@ -26,12 +26,13 @@ Você deve criar uma aplicação com os requisitos abaixo,  utilizando framework
 - API Rest de produtos com listagem, criação, atualização e deleção
 
 ### Plus
-Programar em Inglês
-Utilizar as melhores práticas da Orientação a Objetos.
-As tabelas do banco de dados criadas através de migrations com as devidas nomenclaturas em inglês.
-TailwindCSS
-AlpineJS
-Livewire
+Não é obrigatório, mas será muito bom se você: 
+- Programar em Inglês
+- Utilizar as melhores práticas da Orientação a Objetos.
+- As tabelas do banco de dados criadas através de migrations com as devidas nomenclaturas em inglês.
+- Tailwind CSS
+- AlpineJS
+- Livewire
 
 ### Observações
 Não tenha pressa! O que será avaliado é a qualidade do código não a velocidade de desenvolvimento. Portanto, qualquer generator / scaffolding de CRUD, MVC, etc, torna-se desnecessário.
