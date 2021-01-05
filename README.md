@@ -22,7 +22,7 @@ Você deve criar uma aplicação com os requisitos abaixo,  utilizando framework
 - CRUD de usuários
 - CRUD de produtos
 
-- Todos os CRUDs devem possuir listagem filtragem e paginação de 2 items, criação, atualização e deleção
+- Todos os CRUDs devem possuir listagem filtragem e paginação de 20 items, criação, atualização e deleção
 - API Rest de produtos com listagem, criação, atualização e deleção
 
 ### Plus
